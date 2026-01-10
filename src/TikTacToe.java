@@ -146,9 +146,6 @@ public class TikTacToe {
 
 
 
-
-
-
     void setWinner(JButton tile){
         tile.setBackground(Color.black);
         tile.setForeground(Color.green);
